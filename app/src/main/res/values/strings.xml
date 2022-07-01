@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">НаУм</string>
+    <string name="main_cat">Основное</string>
+    <string name="teoria">Теоретический материал</string>
+    <string name="practica">Практические задания</string>
+    <string name="test">Проверь свои знания</string>
+    <string name="trener">Давай потренируемся</string>
+    <string name="tests">Тестовый редактор</string>
+    <string name="o_prog">О приложении </string>
+    <string name="sign_up_please">Гость</string>
+    <string name="toggle_open">Open</string>
+    <string name="toggle_close">Close</string>
+    <string name="namemenu">Электронное приложение по теме «Создание анимации» </string>
+    <!-- Account -->
+    <string name="admin">Преподаватель</string>
+    <string name="sign_up">Регистрация</string>
+    <string name="sign_in">Вход</string>
+    <string name="sign_out">Выход</string>
+    <string name="accaunt">Аккаунт</string>
+    <string name="name">Имя</string>
+    <string name="sec_name">Фамилия</string>
+    <string name="father_name">Отчество</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="sign_up_button">Зарегистрироваться</string>
+    <string name="sign_in_button">Войти</string>
+    <string name="sign_in_or_sign_up">Войдите или зарегестрируйтесь</string>
+    <!-- New Questions Act -->
+    <string name="edit">Редактирование</string>
+    <string name="new_question">Новый вопрос</string>
+    <string name="title_q">Заголовок</string>
+    <string name="hint_question">Вопрос</string>
+    <string name="user_list">Пользователи</string>
+    <string name="user_teo">Редактор теории</string>
+    <string name="user_pra">Редактор практики </string>
+    <string name="info_list">Редактор заданий</string>
+    <string name="hint_answer_1">Правильный ответ</string>
+    <string name="hint_answer_2">Ложный ответ 1</string>
+    <string name="hint_answer_3">Ложный ответ 2</string>
+    <string name="hint_answer_4">Ложный ответ 3</string>
+    <string name="true_answers">Правильных ответов</string>
+    <string name="false_answers">Количество вопросов</string>
+    <string name="create_new_test">Создать новый тест</string>
+    <string name="test_name">Название теста</string>
+    <string name="ok">OK</string>
+    <string name="back">ОТМЕНА</string>
+    <!-- New Info Act -->
+    <string name="info_title_hint">Заголовок</string>
+    <string name="info_content_hint">Содержание</string>
+    <string name="new_info">Новая теория</string>
+    <string name="pdf_file">Выбрать PDF файл</string>
+    <!-- O program -->
+    <string name="obo_vsem"> <br> Электронное приложение по теме «Создание анимации» по дисциплине «Информатика и ИКТ» на планшетный компьютер для СПО. </br> \n
+    <br> Данное электронное образовательное приложение может использоваться как в аудитории, для подготовки к экзаменам, так и в самостоятельной работе студентов. Приложение позволяет контролировать знания, а также формировать определенные умения до автоматизма.</br>\n
+    <br> Рассмотренные умения:</br>\n
+        <br> 1.	Умение пользоваться инструментами;</br>\n
+        <br> 2.	Умение работать с обычной (покадровой) и автоматической анимацией;</br>\n
+        <br> 3.	Умение работать с символами. Библиотечные образцы и их экземпляры;</br>\n
+        <br> 4.	Умение работать с анимацией формы;</br>\n
+        <br> 5.	Умение работать со слоями. Работа с объектами в разных слоях, работа параллельных объектов;</br>\n
+        <br> 6.	Умение работать со маской;</br> \n
+        <br> 7.	Умение оценить использованные стандартные эффекты.</br>\n
+        <br></br> \n
+        <br> Разработчик приложения: Наумов А.И, студент БГПУ им.М.Акмуллы.  </br>\n
+        <br> Научный руководитель: Габитова Э.М, доцент, к.п.н. </br>\n
+        <br>Приложение написано на современном высокоуровневом языке программирования Kotlin, разработка происходила в интегрированной среде разработки андроид приложений Android Studio.</br>
+    </string>
+</resources>

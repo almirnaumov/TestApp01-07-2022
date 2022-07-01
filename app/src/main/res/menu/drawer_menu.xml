@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item android:title="@string/main_cat" android:id="@+id/mainCatId">
+        <menu>
+            <item android:title="@string/teoria"
+                android:id="@+id/id_teoria"
+                android:icon="@drawable/ic_teoria"/>
+            <item android:title="@string/practica"
+                android:id="@+id/id_practica"
+                android:icon="@drawable/ic_teoria"/>
+            <item android:title="@string/trener"
+                android:id="@+id/id_trener"
+                android:icon="@drawable/ic_test"/>
+            <item android:title="@string/test"
+                android:id="@+id/id_test"
+                android:icon="@drawable/ic_test"/>
+            <item android:title="@string/o_prog"
+                android:id="@+id/id_o_prog"
+                android:icon="@drawable/ic_prog"/>
+
+        </menu>
+    </item>
+    <item android:title="@string/accaunt" android:id="@+id/accountCatId">
+        <menu>
+            <item android:title="@string/sign_up"
+                android:id="@+id/id_sign_up"
+                android:icon="@drawable/ic_sign_up"/>
+            <item android:title="@string/sign_in"
+                android:id="@+id/id_sign_in"
+                android:icon="@drawable/ic_sign_in"/>
+            <item android:title="@string/sign_out"
+                android:id="@+id/id_sign_out"
+                android:icon="@drawable/ic_sign_out"/>
+        </menu>
+    </item>
+    <item android:title="@string/admin" android:id="@+id/id_admin">
+        <menu>
+            <item android:title="@string/tests"
+                android:id="@+id/id_tests"
+                android:icon="@drawable/ic_questions"/>
+            <item android:title="@string/user_list"
+                android:id="@+id/id_users"
+                android:icon="@drawable/ic_users"/>
+            <item android:title="@string/user_teo"
+                android:id="@+id/id_theory_adm"
+                android:icon="@drawable/ic_info_list"/>
+            <item android:title="@string/user_pra"
+                android:id="@+id/id_practica_adm"
+                android:icon="@drawable/ic_info_list"/>
+        </menu>
+    </item>
+
+
+
+
+</menu>
